@@ -130,6 +130,8 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality README file with description, screenshot, and link to deployed application
 
+*(Deployed heroku app)[https://hidden-plateau-87305.herokuapp.com]
+
 ## Review
 
 You are required to submit the following for review:
